@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Venkat Ramana S B </h3>
-<h3>Register Number: 212224060296</h3>
+<h3>Name: Vigneshwaran R </h3>
+<h3>Register Number: 212224060300</h3>
 
 
 <h3>AIM:</h3>
